@@ -15,3 +15,5 @@ while len(prime_list) != 50:
     if(check_prime(count)):
         prime_list.append(count)
     count += 1
+    
+#tests 1234
